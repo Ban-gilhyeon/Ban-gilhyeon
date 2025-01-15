@@ -34,8 +34,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ban-gilhyeon/Ban-gilhyeon/output/snake.svg" alt="Snake animation" />
-
 ###
