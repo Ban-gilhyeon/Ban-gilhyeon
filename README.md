@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ban-gil-hyeon and I'm study backend server</h2>
+<h2 align="left">안녕하세요 백엔드 서버 공부하고 있는 반길현이라고 합니다.</h2>
 
 ###
 
